@@ -7,6 +7,7 @@
   "dependencies": {
     "body-parser": "^1.20.3",
     "express": "^4.21.2",
+    "mongoose": "^8.10.1",
     "nodemon": "^3.1.7",
     "path": "^0.12.7"
   },
@@ -14,6 +15,5 @@
   "description": "You are a developer for an educational analytics platform that helps teachers evaluate students' performance. The platform maintains student records, including their names, grades, and marks in multiple subjects, stored in a JSON format.",
   "main": "index.js",
   "author": "",
-  "license": "ISC",
-  "devDependencies": {}
+  "license": "ISC"
 }
